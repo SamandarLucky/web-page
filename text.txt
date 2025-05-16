@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+openai
+donetv
+git+
+https://github.com/SamandarLucky/IELTS.git
